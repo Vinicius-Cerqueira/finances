@@ -3,7 +3,7 @@ import Modal from 'react-modal';
 import closeImg from '../../assets/close.svg';
 import incomeImg from '../../assets/entradas.svg';
 import outcomeImg from '../../assets/saidas.svg';
-import { FormEvent, useContext, useState } from 'react';
+import { FormEvent, useState } from 'react';
 import { useTransactions } from '../../hooks/useTransactions';
 interface NewTransactionModalProps {
   isOpen: boolean;

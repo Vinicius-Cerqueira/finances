@@ -27,6 +27,14 @@ createServer({
           amount: 990,
           createdAt: new Date('2021-02-14 11:00:00'),
         },
+        {
+          id: 3,
+          title: 'Hamburguer',
+          type: 'withdraw',
+          category: 'Alimentação',
+          amount: 30,
+          createdAt: new Date('2021-02-09 9:00:00'),
+        },
       ],
     });
   },
