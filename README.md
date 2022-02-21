@@ -7,7 +7,7 @@ This app provides you a total control of all your finances, so you can be aware 
 2. MirageJs
 3. styled-components
 
-##R unning the app
+## Running the app
 
 1. Clone the project for an IDE of your preference
 2. Install dependencies with ```javascript npm install``` or  ```javascript yarn install```
