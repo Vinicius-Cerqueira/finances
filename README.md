@@ -3,9 +3,9 @@
 This app provides you a total control of all your finances, so you can be aware of all your gains and debts. 
 
 ##The following stacks were used:
- 1.ReactJS for client-side rendering
- 2.MirageJs for backend in frontend
- 3.styled-components for project's stylization  
+1. ReactJS
+2. MirageJs
+3. styled-components
 
 ##Running the app
 
