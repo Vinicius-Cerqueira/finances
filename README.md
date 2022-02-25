@@ -10,7 +10,7 @@ This app provides you a total control of all your finances, so you can be aware 
 ## Running the app
 
 1. Clone the project for an IDE of your preference
-2. Install dependencies with ```javascript npm install``` or  ```javascript yarn install```
-3. Run the app with ```javascript npm start``` or  ```javascript yarn start```
+2. Install dependencies with ```npm install``` or  ``` yarn install```
+3. Run the app with ``` npm start``` or  ``` yarn start```
 4. Enjoy!
 
